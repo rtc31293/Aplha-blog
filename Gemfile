@@ -52,5 +52,6 @@ group :production do
   gem 'pg' #so our app knows to use pstgres in production
   
   gem 'rails_12factor'
+  
 end
 
